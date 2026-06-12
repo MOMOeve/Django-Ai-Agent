@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="cos-python-sdk-v5" />
+          <option value="django-redis" />
+          <option value="Pillow" />
+          <option value="pycrypto" />
+          <option value="aiofiles" />
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="alibabacloud-credentials" />
+          <option value="alibabacloud-credentials-api" />
+          <option value="alibabacloud-dypnsapi20170525" />
+          <option value="alibabacloud-openapi-util" />
+          <option value="alibabacloud-tea" />
+          <option value="alibabacloud-tea-openapi" />
+          <option value="alibabacloud-tea-util" />
+          <option value="alibabacloud_endpoint_util" />
+          <option value="alibabacloud_gateway_spi" />
+          <option value="APScheduler" />
+          <option value="async-timeout" />
+          <option value="attrs" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="cryptography" />
+          <option value="darabonba-core" />
+          <option value="Django" />
+          <option value="frozenlist" />
+          <option value="idna" />
+          <option value="multidict" />
+          <option value="pillow" />
+          <option value="propcache" />
+          <option value="pycparser" />
+          <option value="PyMySQL" />
+          <option value="pytz" />
+          <option value="redis" />
+          <option value="requests" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="tzlocal" />
+          <option value="urllib3" />
+          <option value="yarl" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="momo.momo.urls.app01" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
